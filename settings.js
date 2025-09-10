@@ -1,9 +1,9 @@
 const settings = {
   packname: 'Knight Bot',
-  author: '‎',THANKGOD
+  author: '‎THANKGOD',
   botName: "Knight Bot",
-  botOwner: 'Professor', // DAVE
-  ownerNumber: '919876543210', //2347032416872
+  botOwner: 'DAVE', // DAVE
+  ownerNumber: '2347032416872', //2347032416872
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "PUBLIC",
   maxStoreMessages: 20, 
